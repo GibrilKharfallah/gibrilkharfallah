@@ -9,7 +9,8 @@
 
 ## 🌐 Connect with me :
 <p align="left">
-<a href="https://linkedin.com/in/gibril kharfallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gibril kharfallah" height="30" width="40" /></a> </br> 
+<a href="https://linkedin.com/in/gibril kharfallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gibril kharfallah" height="30" width="40" /></a> 
+<br></br> 
 <a href="https://kaggle.com/gibril kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gibril kh" height="30" width="40" /></a>
 </p>
 
